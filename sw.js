@@ -1,10 +1,10 @@
 const CACHE_NAME = 'dolarpulso-v1';
 const ASSETS = [
   './',
-  'index.html',
-  'styles.css',
-  'script.js',
-  'manifest.json'
+  './index.html',
+  './styles.css',
+  './script.js',
+  './manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
